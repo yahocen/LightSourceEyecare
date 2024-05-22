@@ -1,0 +1,1 @@
+D:\Java\jdk-11.0.10+9-jre-openj9\bin\java.exe -Xmx32m -Xms32m -XX:+UseG1GC -XX:+UseStringDeduplication -XX:+UseNUMA -jar .\LightSourceEyecare-1.0-develop-full.jar

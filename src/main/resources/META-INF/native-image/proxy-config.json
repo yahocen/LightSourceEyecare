@@ -1,0 +1,14 @@
+[
+  [
+    "com.sun.jna.platform.win32.Dxva2"
+  ],
+  [
+    "com.sun.jna.platform.win32.User32"
+  ],
+  [
+    "com.sun.jna.Library"
+  ],
+  [
+    "com.sun.jna.Callback"
+  ]
+]
